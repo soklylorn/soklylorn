@@ -6,11 +6,11 @@
 
 <p align="center">
   <strong>Data Analyst | Quantitative & Financial Modeling</strong><br>
-  Turning complex financial challenges into data-driven solutions through modeling, statistics, and optimization.
+  <i>Turning complex financial challenges into data-driven solutions through modeling, statistics, and optimization.</i>
 </p>
 
 <p align="center">
-  📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📫 <a href="mailto:lornsokly.lee@gmail.com">lornsokly.lee@gmail.com</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/soklylorn">LinkedIn</a>
+  📫 <a href="mailto:lornsokly.lee@gmail.com">lornsokly.lee@gmail.com</a>
 </p>
 
 ---
@@ -22,11 +22,37 @@
 - ⚙️ Optimization & Model Validation
 
 ---
+<h3>🚀 Tech Stack</h3>
 
-### 🛠 Tech Stack
-- **Languages:** Python, SQL, R
-- **Libraries:** NumPy, Pandas, SciPy, Statsmodels
-- **Tools:** Excel, Power BI, Git, LaTeX
+<!-- 👨‍💻 Languages -->
+<h4>👨‍💻 Languages</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" title="Python"/> <b>Python</b> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" title="SQL"/> <b>SQL</b> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20" title="R"/> <b>R</b>
+</p>
+
+<!-- 📚 Libraries -->
+<h4>📚 Libraries</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="20" title="NumPy"/> <b>NumPy</b> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20" title="Pandas"/> <b>Pandas</b> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="20" title="Scikit-learn"/> <b>Scikit-learn</b> &nbsp;&nbsp;
+  <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" width="20" title="SciPy"/> <b>SciPy</b> &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/14062435?s=200&v=4" width="20" title="Statsmodels"/> <b>Statsmodels</b>
+</p>
+
+
+<!-- 🧰 Tools -->
+<h4>🧰 Tools</h4>
+<p>
+  <b>Excel</b> &nbsp;&nbsp; 
+  <b>Power BI</b> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" title="Git"/> <b>Git</b> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="24" title="LaTeX"/> <b>LaTeX</b> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24" title="VS Code"/> <b>VS Code</b>
+</p>
+
 
 ---
 ### 📂 Projects
