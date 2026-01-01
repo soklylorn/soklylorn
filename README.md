@@ -57,7 +57,7 @@
 ---
 ### 📂 Projects
 
-- [Stock Prediction](https://github.com/soklylorn/Stock-Prediction)  
+- [Stock Prediction](https://github.com/sokly-lorn/Stock-Prediction)  
   Comparative study of **baseline models** (Logistic Regression, Random Forest) versus **LSTM networks** for stock price prediction.  
   - 📈 Baselines: Logistic Regression, Random Forest  
   - 🤖 Deep Learning: LSTM for sequential time-series modeling  
