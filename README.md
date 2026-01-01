@@ -1,5 +1,3 @@
-# sokly-lorn
-
 # Hi, I'm Sokly 👋
 
 🎯 **Data Analyst | Quantitative & Financial Modeling**
