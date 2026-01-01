@@ -48,9 +48,9 @@
 <p>
   <b>Excel</b> &nbsp;&nbsp; 
   <b>Power BI</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" title="Git"/> <b>Git</b> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="24" title="LaTeX"/> <b>LaTeX</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24" title="VS Code"/> <b>VS Code</b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" title="Git"/> <b>Git</b> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="20" title="LaTeX"/> <b>LaTeX</b> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" title="VS Code"/> <b>VS Code</b>
 </p>
 
 
