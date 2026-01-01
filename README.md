@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://tenor.com/3meh.gif" alt="Choonsik Kakao GIF" width="250"/>
+</p>
+
 # Hi, I'm Sokly 👋
 
 🎯 **Data Analyst | Quantitative & Financial Modeling**
@@ -9,8 +13,7 @@ I build financial and credit risk models (ECL) using statistical methods, regres
 ### 🧠 What I work with
 - 📊 Financial & Credit Risk Modeling (ECL)
 - 📈 Regression: Linear, Logistic
-- 🧮 Probability & Statistics  
-  (Normal, Gamma, Exponential distributions)
+- 🧮 Probability & Statistics
 - ⚙️ Optimization & Model Validation
 
 ---
@@ -21,7 +24,8 @@ I build financial and credit risk models (ECL) using statistical methods, regres
 - **Tools:** Excel, Power BI, Git, LaTeX
 
 ---
+### 🌐 Connect with Me
 
-### 📫 Contact
-- LinkedIn: https://linkedin.com/in/soklylorn
-- Email: lornsokly.lee@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/soklylorn)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge)](mailto:lornsokly.lee@gmail.com)
+
