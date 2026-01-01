@@ -1,16 +1,21 @@
-<p align="center">
-  <img src="https://tenor.com/3meh.gif" alt="Choonsik Kakao GIF" width="250"/>
+<p align="center"> 
+  <img src="https://media1.tenor.com/m/Zi2IwCZhfb0AAAAC/opm-ready.gif" alt="OPM Ready GIF" width="250"/> 
 </p>
 
-# Hi, I'm Sokly 👋
+<h1 align="center">Hi, I'm Sokly 👋</h1>
 
-🎯 **Data Analyst | Quantitative & Financial Modeling**
+<p align="center">
+  <strong>Data Analyst | Quantitative & Financial Modeling</strong><br>
+  Turning complex financial challenges into data-driven solutions through modeling, statistics, and optimization.
+</p>
 
-I build financial and credit risk models (ECL) using statistical methods, regression, optimization, and probability theory to support data-driven decisions.
+<p align="center">
+  📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 📫 <a href="mailto:lornsokly.lee@gmail.com">lornsokly.lee@gmail.com</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/soklylorn">LinkedIn</a>
+</p>
 
 ---
 
-### 🧠 What I work with
+### 🚀 Tech Focus
 - 📊 Financial & Credit Risk Modeling (ECL)
 - 📈 Regression: Linear, Logistic
 - 🧮 Probability & Statistics
