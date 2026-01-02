@@ -15,57 +15,55 @@
 
 ---
 
-### 🚀 Tech Focus
+## 🚀 Tech Focus
 - 📊 Financial & Credit Risk Modeling (ECL)
 - 📈 Regression: Linear, Logistic
 - 🧮 Probability & Statistics
 - ⚙️ Optimization & Model Validation
 
 ---
-<h3>🚀 Tech Stack</h3>
 
-<!-- 👨‍💻 Languages -->
-<h4>👨‍💻 Languages</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" title="Python"/> <b>Python</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" title="SQL"/> <b>SQL</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20" title="R"/> <b>R</b>
+## 🚀 Tech Stack
+
+### 👨‍💻 Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> Python &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" title="MySQL"/> MySQL &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="30" title="R"/> R
 </p>
 
-<!-- 📚 Libraries -->
-<h4>📚 Libraries</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="20" title="NumPy"/> <b>NumPy</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20" title="Pandas"/> <b>Pandas</b> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="20" title="Scikit-learn"/> <b>Scikit-learn</b> &nbsp;&nbsp;
-  <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" width="20" title="SciPy"/> <b>SciPy</b> &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/14062435?s=200&v=4" width="20" title="Statsmodels"/> <b>Statsmodels</b>
+### 📚 Libraries
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" title="NumPy"/> NumPy &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas"/> Pandas &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/14062435?s=200&v=4" width="20" title="Statsmodels"/> Statsmodels &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" title="Scikit-learn"/> Scikit-learn &nbsp;&nbsp;
+  <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" width="30" title="SciPy"/> SciPy
 </p>
 
-
-<!-- 🧰 Tools -->
-<h4>🧰 Tools</h4>
-<p>
-  <b>Excel</b> &nbsp;&nbsp; 
-  <b>Power BI</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" title="Git"/> <b>Git</b> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="20" title="LaTeX"/> <b>LaTeX</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" title="VS Code"/> <b>VS Code</b>
+### 🧰 Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="30" title="Excel"/> Excel
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="30" title="Power BI"/> Power BI &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" title="Git"/> Git &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="30" title="LaTeX"/> LaTeX &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" width="70" title="RStudio"/> RStudio &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" title="VS Code"/> VS Code
 </p>
 
 
 ---
-### 📂 Projects
+
+## 📂 Projects
 
 - [Stock Prediction](https://github.com/sokly-lorn/Stock-Prediction)  
   Comparative study of **baseline models** (Logistic Regression, Random Forest) versus **LSTM networks** for stock price prediction.  
   - 📈 Baselines: Logistic Regression, Random Forest  
   - 🤖 Deep Learning: LSTM for sequential time-series modeling  
   - 🎯 Goal: Evaluate predictive performance and highlight strengths/limitations of classical vs. deep learning approaches
+
 ---
 
-### 🌐 Connect with Me
-
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/soklylorn)  
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge)](mailto:lornsokly.lee@gmail.com)
-
