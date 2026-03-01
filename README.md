@@ -46,8 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="30" title="Excel"/> Excel
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="30" title="Power BI"/> Power BI &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" title="Git"/> Git &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="30" title="LaTeX"/> LaTeX &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" width="70" title="RStudio"/> RStudio &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="30" title=""/>  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" width="70" title=""/>  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" title="VS Code"/> VS Code
 </p>
 
