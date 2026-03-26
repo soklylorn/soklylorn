@@ -62,6 +62,13 @@
   - 🤖 Deep Learning: LSTM for sequential time-series modeling  
   - 🎯 Goal: Evaluate predictive performance and highlight strengths/limitations of classical vs. deep learning approaches
 
+
+- [House Price Prediction](https://github.com/sokly-lorn/House-Price-Prediction)  
+  Exploratory data analysis of Kaggle's House Prices dataset (Advanced Regression Techniques), focused on SalePrice distribution and transformation.  
+  - 🧾 EDA: SalePrice distribution, skewness, kurtosis, log-transform  
+  - 📊 Data prep: Feature relationships and correlation with SalePrice  
+  - 🔜 To be continued: test linear regression and logistic regression for predictive power with numerical/categorical predictors  
+  - 🎯 Goal: Understand dataset behavior and prepare for regression modeling
 ---
 
 ## 🌐 Connect with Me
