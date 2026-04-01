@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Focus
 - 📊 Financial & Credit Risk Modeling (ECL)
-- 📈 Regression: Linear, Logistic
+- 📈 Methodology: Linear Regression, Logistic Regression, Random Forest
 - 🧮 Probability & Statistics
 - ⚙️ Optimization & Model Validation
 
